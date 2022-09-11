@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+soundfile
+streamlit
+pydub
+noisereduce
+gcloud
+uvicorn
+fastapi

@@ -1,0 +1,16 @@
+MANIFEST.in
+requirements.txt
+setup.py
+api/__init__.py
+api/api.py
+functions/__init__.py
+functions/data_process_functions.py
+functions/feature_extraction.py
+functions/models.py
+functions/path_functions.py
+functions/training_storage.py
+speech_recognition_env.egg-info/PKG-INFO
+speech_recognition_env.egg-info/SOURCES.txt
+speech_recognition_env.egg-info/dependency_links.txt
+speech_recognition_env.egg-info/requires.txt
+speech_recognition_env.egg-info/top_level.txt
