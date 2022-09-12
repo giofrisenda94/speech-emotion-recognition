@@ -6,7 +6,7 @@ import os
 
 
 #Need to have Credentials.json on you computer
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]= "credentials.json"
+#os.environ["GOOGLE_APPLICATION_CREDENTIALS"]= "credentials.json"
 
 #Push Dataframe to Bucket
 def push_to_bucket(data):
