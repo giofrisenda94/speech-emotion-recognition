@@ -19,10 +19,10 @@ def hello():
 def pred():
 
     # Initialise a client
-    client = storage.Client("lewagon-bootcamp-355711")
+    client = storage.Client("enter_client_name")
 
     #Create a bucket object for our bucket
-    bucket = client.get_bucket("220905-spe-rec")
+    bucket = client.get_bucket("enter_bucket_name")
 
     # Create a blob object from the filepath
     features_blob = bucket.blob("Prediction-Features")
